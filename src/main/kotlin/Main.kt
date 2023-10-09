@@ -35,6 +35,7 @@ fun main(args: Array<String>){
 }
 */
 //Task 8
+/*
 fun main(args: Array<String>){
    val year = 1900
    var leap = false
@@ -49,4 +50,5 @@ fun main(args: Array<String>){
    }else
       leap = false
    println(if (leap)"$year is a leap year." else "$year is not a leap year.")
-}
+}*/
+
